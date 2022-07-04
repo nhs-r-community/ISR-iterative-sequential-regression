@@ -14,3 +14,6 @@ Additionally, this also adds an extra parameter to the plot and master functions
 
 Similarly, you can change these further as per your own project's needs.
 
+This package has further been used in the following publications:
+https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(18)30353-0.pdf 
+
