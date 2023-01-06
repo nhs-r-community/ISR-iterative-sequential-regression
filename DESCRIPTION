@@ -1,10 +1,11 @@
 Package: isr
-Type: Package
-Title: What the package does (short line)
-Version: 1.0
-Date: 2014-07-14
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
 License: MIT + file LICENSE
-Packaged: 2014-07-14 22:13:50 UTC; iryna
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
