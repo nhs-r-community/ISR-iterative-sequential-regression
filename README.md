@@ -1,7 +1,7 @@
 # ISR (iterative sequential regression)
 
 This package has been forked from original code developed for the 
-[manuscript by Schlackow et al on Surveillance of Infection Severity: A Registry Study of Laboratory Diagnosed Clostridium difficile](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001279). 
+[manuscript by Schlackow et al on Surveillance of Infection Severity: A Registry Study of Laboratory Diagnosed Clostridium difficile](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001279). The original licence can be read in [LICENCE ARCHIVE](LICENCE_ARCHIVE.md)
 
 It is being reformatted into a fully open package by NHS-R Community to continue 
 its support and note that issues have been raised to assist in that reformatting. 
